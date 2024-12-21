@@ -1,0 +1,16 @@
+src/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── About.tsx
+│   ├── Community.tsx
+│   ├── Footer.tsx
+│   ├── Header.tsx
+│   ├── Hero.tsx
+│   ├── Roadmap.tsx
+│   ├── SectionTitle.tsx
+│   └── Tokenomics.tsx
+└── styles/
+    └── tokenomics.css
